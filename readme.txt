@@ -3,4 +3,4 @@ git is under the GPL
 git has a mutable index called stage
 git tracks chages
 git add stupid changes twice
-creating a new branch on dev is quick & simple
+creating a new branch on dev is quick and simple
